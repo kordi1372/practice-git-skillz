@@ -7,4 +7,4 @@ Here is some more text.
 Earth Data Science
 
 
-I have for learning more about working with gi and github
+the last practice
